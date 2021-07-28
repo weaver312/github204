@@ -1,4 +1,4 @@
-true:
+on:
   workflow_dispatch:
     inputs:
       version:
